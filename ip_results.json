@@ -1,0 +1,62 @@
+[
+  {
+    "ip": "92.184.112.144",
+    "abuseIPDB": {
+      "score": 0,
+      "country": "FR",
+      "domain": "orange.com",
+      "isp": "Orange S.A.",
+      "reports": 0,
+      "status": "non malveillante"
+    },
+    "virusTotal": {
+      "malicious_count": 2,
+      "status": "malveillante"
+    }
+  },
+  {
+    "ip": "3.238.137.0",
+    "abuseIPDB": {
+      "score": 79,
+      "country": "US",
+      "domain": "intrigue.co.jp",
+      "isp": "Intrigue Corp",
+      "reports": 38,
+      "status": "malveillante"
+    },
+    "virusTotal": {
+      "malicious_count": 9,
+      "status": "malveillante"
+    }
+  },
+  {
+    "ip": "134.209.100.25",
+    "abuseIPDB": {
+      "score": 100,
+      "country": "SG",
+      "domain": "digitalocean.com",
+      "isp": "DigitalOcean LLC",
+      "reports": 185,
+      "status": "malveillante"
+    },
+    "virusTotal": {
+      "malicious_count": 4,
+      "status": "malveillante"
+    }
+  },
+  {
+    "ip": "176.125.228.152",
+    "abuseIPDB": {
+      "score": 2,
+      "country": "DZ",
+      "domain": "m247.com",
+      "isp": "M247 Europe SRL",
+      "reports": 1,
+      "status": "non malveillante"
+    },
+    "virusTotal": {
+      "malicious_count": 0,
+      "status": "non malveillante"
+    }
+  }
+]
