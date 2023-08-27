@@ -10,22 +10,22 @@
       "status": "non malveillante"
     },
     "virusTotal": {
-      "malicious_count": 2,
+      "malicious_count": 3,
       "status": "malveillante"
     }
   },
   {
     "ip": "3.238.137.0",
     "abuseIPDB": {
-      "score": 79,
+      "score": 39,
       "country": "US",
       "domain": "intrigue.co.jp",
       "isp": "Intrigue Corp",
-      "reports": 38,
-      "status": "malveillante"
+      "reports": 0,
+      "status": "non malveillante"
     },
     "virusTotal": {
-      "malicious_count": 9,
+      "malicious_count": 6,
       "status": "malveillante"
     }
   },
@@ -36,18 +36,18 @@
       "country": "SG",
       "domain": "digitalocean.com",
       "isp": "DigitalOcean LLC",
-      "reports": 185,
+      "reports": 64,
       "status": "malveillante"
     },
     "virusTotal": {
-      "malicious_count": 4,
+      "malicious_count": 8,
       "status": "malveillante"
     }
   },
   {
     "ip": "176.125.228.152",
     "abuseIPDB": {
-      "score": 2,
+      "score": 10,
       "country": "DZ",
       "domain": "m247.com",
       "isp": "M247 Europe SRL",
